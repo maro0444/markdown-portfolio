@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Here is a list of things I like
+- fun times
+- all the things
+- learning git
